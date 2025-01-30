@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Usage
 Run the script to launch the application:
 ```sh
-python main.py
+python bot2.py
 ```
 ### Controls
 - **Start**: Begins weed detection.
