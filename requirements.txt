@@ -1,0 +1,4 @@
+tkinter  # Built-in with Python, but needed for GUI
+pillow  # For image handling in Tkinter
+opencv-python  # For video capture and image processing
+numpy  # For numerical operations and color filtering
